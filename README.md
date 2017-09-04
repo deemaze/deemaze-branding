@@ -5,7 +5,7 @@ You can download our wordmark's font from [Fontfabric](http://www.fontfabric.com
 
 When using them, do not alter this assets in any way. Also, don't use them to suggest the involvement of Deemaze Software incorrectly (for example, nonexistent sponsorships).
 
-For more information on this topic, read the [Brand Guidelines.pdf](../Brand\ Guidelines.pdf) file.
+For more information on this topic, read the [Brand Guidelines.pdf](deemaze-branding/Brand Guidelines.pdf) file.
 
 ___
 
